@@ -1,0 +1,5 @@
+{
+  "name": "DiskViz",
+  "description": "A disk space visualization and monitoring system.",
+  "requestFramePermissions": []
+}
